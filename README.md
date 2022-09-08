@@ -7,7 +7,9 @@ This page will include my individual project that I've done for fun and is part 
 ## Find me elsewhere :earth_asia:
 
 <p align='center'>
-  <img style="float:left;" src='https://images.squarespace-cdn.com/content/v1/627ade4bb6f11d290b193d12/283e13f5-5143-4712-9c23-43b6bbd71ae3/exl+cloud+logo.png'>
-  <img style="float:left;" src='https://images.squarespace-cdn.com/content/v1/627ade4bb6f11d290b193d12/283e13f5-5143-4712-9c23-43b6bbd71ae3/exl+cloud+logo.png'>
-  <img style="float:left;" src='https://images.squarespace-cdn.com/content/v1/627ade4bb6f11d290b193d12/283e13f5-5143-4712-9c23-43b6bbd71ae3/exl+cloud+logo.png'>
+  <img src='https://images.squarespace-cdn.com/content/v1/627ade4bb6f11d290b193d12/283e13f5-5143-4712-9c23-43b6bbd71ae3/exl+cloud+logo.png'>
+  &nbsp
+  <img src='https://images.squarespace-cdn.com/content/v1/627ade4bb6f11d290b193d12/283e13f5-5143-4712-9c23-43b6bbd71ae3/exl+cloud+logo.png'>
+  &nbsp
+  <img src='https://images.squarespace-cdn.com/content/v1/627ade4bb6f11d290b193d12/283e13f5-5143-4712-9c23-43b6bbd71ae3/exl+cloud+logo.png'>
 </p>
