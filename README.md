@@ -5,10 +5,10 @@ Hi there, I am an individual that is passionate in solving challenging problems 
 This page will include my individual project that I've done for fun and is part of my learning experience.
 
 <p align='right'>
-  <img width = 50 height = 100 src='https://images.squarespace-cdn.com/content/v1/627ade4bb6f11d290b193d12/283e13f5-5143-4712-9c23-43b6bbd71ae3/exl+cloud+logo.png'>
+  <img width = 50 height = 50 src='https://images.squarespace-cdn.com/content/v1/627ade4bb6f11d290b193d12/283e13f5-5143-4712-9c23-43b6bbd71ae3/exl+cloud+logo.png'>
   &nbsp
-  <img width = 50 height = 100 src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png'>
+  <img width = 50 height = 50 src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png'>
   &nbsp
-  <img width = 50 height = 100 src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'>
+  <img width = 50 height = 50 src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'>
 </p>
 
