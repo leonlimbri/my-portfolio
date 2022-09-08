@@ -15,7 +15,7 @@
 
 Hi there, I am an individual that is passionate in solving challenging problems through data-driven solution. Due to my background in Financial Modelling, I've often used Microsoft Excel to build those solutions and recently have broaden my range of skills to work in JavaScript Python and 
 
-This page will include my individual project that I've done for fun and is part of my learning experience during my university (which is why there is @llimbri) and my freetime.
+This page will include my individual project that I've done for fun and is part of my learning experience. Enjoy!
 
 ## List of items
 - **Ulam Spiral**: Python code (as Jupyter Notebook) to generate an Ulam Spiral of a size of your choosing, with complexity of $O(n^2)$. [[Link :lemon:]](https://github.com/leonlimbri/my-portfolio/tree/main/ulam%20spiral)
