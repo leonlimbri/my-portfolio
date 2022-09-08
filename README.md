@@ -9,6 +9,6 @@ This page will include my individual project that I've done for fun and is part 
   &nbsp
   <img width = 50 height = 50 src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png'>
   &nbsp
-  <img width = 50 height = 50 src='https://cdn-icons-png.flaticon.com/512/25/25231.png'>
+  <img width = 50 height = 50 src='https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png'>
 </p>
 
