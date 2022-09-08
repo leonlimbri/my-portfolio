@@ -1,5 +1,5 @@
 # Edwin Hartono Limbri - Leon :lemon: 
-<p align='right'>
+<p align='left'>
   <a href = 'https://www.exlcloud.io/about-us'> 
     <img width = 50 height = 50 src = 'https://images.squarespace-cdn.com/content/v1/627ade4bb6f11d290b193d12/283e13f5-5143-4712-9c23-43b6bbd71ae3/exl+cloud+logo.png'>
   </a>
