@@ -1,6 +1,13 @@
-# Ulam Spiral 
-Ulam Spiral or also called the Prime Spiral is a graphical visuals devised by the mathematician Stanislaw Ulam, the general idea of Ulam Spiral is creating a sequence of numbers starting from the center with 1, and create a spiral movement from there, then it detects the prime number of the sequence. This visual is amazing as it shows how there is actually a pattern of prime numbers if we look it this way, even though there is no valid proof saying that there is a deiscernable pattern in the occurence of the primes.
+# Monty Hall
+Monty Hall Problem is a classic probability problem which is a kind of paradox of the veridical type, which is due to the fact that the solution of this particular problem is so absurd and not following the a standard common sense. The problem started with assuming a game show with the following rules:
+
+- 3 Doors, with 1 door has a car behind it and the other has goats.
+- The contestant is given a choice to choose a door.
+- The host, who knows which door that has a car, opens another door that has a goat in it.
+- The contestant is then given another choice to switch to the remaining door, or keep on with their initial choice.
+
+The response by Vos Savant is shown to show that switching is the right strategy, and it will lead to a higher probability of winning the car. The reason for this is because as the host has shown another door that has a goat in it (and will always do this), then the probability of winning if the contestant switch is equivalent to the probability of initially choosing a goat. This is because as the number of goats are 2, and if one of the goat has been revealed, then there is a $2/3$ chance that the other door that hasn't been revealed to be a car.
 
 <p align = 'center'>
-  <img width = 500 height = 500 src = 'images/ulam_500.png'>
+  <img width = 500 height = 500 src = 'https://i0.wp.com/statisticsbyjim.com/wp-content/uploads/2017/02/Monty_open_door_blog-300x167.png?resize=300%2C167'>
 </p>
