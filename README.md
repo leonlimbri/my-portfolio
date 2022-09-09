@@ -18,5 +18,5 @@ Hi there, I am an individual that is passionate in solving challenging problems 
 This page will include my individual project that I've done for fun and is part of my learning experience. Enjoy!
 
 ## List of items
-- **Ulam Spiral**: Python code (as Jupyter Notebook) to generate an Ulam Spiral of a size of your choosing, with complexity of $O(n^2)$. [[Link :lemon:]](https://github.com/leonlimbri/my-portfolio/tree/main/ulam%20spiral)
-- **Monty Hall**: Python code (as Jupyter Notebook) to simulate the Monty Hall game show. [[Link :lemon:]](https://github.com/leonlimbri/my-portfolio/tree/main/monty%20hall)
+- [[Link :lemon:]](https://github.com/leonlimbri/my-portfolio/tree/main/monty%20hall) **Ulam Spiral**: Python code (as Jupyter Notebook) to generate an Ulam Spiral of a size of your choosing, with complexity of $O(n^2)$.
+- [[Link :lemon:]](https://github.com/leonlimbri/my-portfolio/tree/main/monty%20hall) **Monty Hall**: Python code (as Jupyter Notebook) to simulate the Monty Hall game show.
