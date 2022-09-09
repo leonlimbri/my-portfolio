@@ -9,5 +9,5 @@ Monty Hall Problem is a classic probability problem which is a kind of paradox o
 The response by Vos Savant is shown to show that switching is the right strategy, and it will lead to a higher probability of winning the car. The reason for this is because as the host has shown another door that has a goat in it (and will always do this), then the probability of winning if the contestant switch is equivalent to the probability of initially choosing a goat. This is because as the number of goats are 2, and if one of the goat has been revealed, then there is a $2/3$ chance that the other door that hasn't been revealed to be a car.
 
 <p align = 'center'>
-  <img width = 500 height = 500 src = 'https://i0.wp.com/statisticsbyjim.com/wp-content/uploads/2017/02/Monty_open_door_blog-300x167.png?resize=300%2C167'>
+  <img src = 'https://i0.wp.com/statisticsbyjim.com/wp-content/uploads/2017/02/Monty_open_door_blog-300x167.png?resize=300%2C167'>
 </p>
