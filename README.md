@@ -13,7 +13,7 @@
   </a>
 </p>
 
-Hi there, I am an individual that is passionate in solving challenging problems through data-driven solution. Due to my background in Financial Modelling, I've often used Microsoft Excel to build those solutions and recently have broaden my range of skills to work in JavaScript Python and 
+Hi there, I am an individual that is passionate in solving challenging problems through data-driven solution. Due to my background in Financial Modelling, I've often used Microsoft Excel to build those solutions and recently have broaden my range of skills to work in JavaScript and Python
 
 This page will include my individual project that I've done for fun and is part of my learning experience. Enjoy!
 
