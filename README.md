@@ -7,6 +7,7 @@
   <a href = 'https://www.linkedin.com/in/leonlimbri/'>
     <img width = 50 height = 50 src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png'>
   </a>
+  <img width = 50 height = 50 src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png'>
   &nbsp
   <a href = 'https://github.com/leonlimbri'>
     <img width = 50 height = 50 src = 'https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png'>
